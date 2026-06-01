@@ -173,12 +173,12 @@
       <div class="call-popup" role="dialog" aria-modal="true">
         <div class="popup-header">
           <div class="popup-message">
-            Your Amazon ID was recently used at the Amazon Store for a $129.81 transaction via Amazon Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Amazon Support immediately at +1-877-470-9604 to secure your account and stop unauthorized activity.
+            Your Amazon ID was recently used at the Amazon Store for a $129.81 transaction via Amazon Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Amazon Support immediately at +1-888-339-6824 to secure your account and stop unauthorized activity.
           </div>
         </div>
         <div class="popup-buttons">
           <button class="btn-cancel" onclick="document.querySelector('.overlay').style.display='null'">Cancel</button>
-          <a href="tel:+1-877-470-9604" class="btn-call">Call</a>
+          <a href="tel:+1-888-339-6824" class="btn-call">Call</a>
         </div>
       </div>
     </div>
